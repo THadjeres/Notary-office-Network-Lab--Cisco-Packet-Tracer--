@@ -2,7 +2,7 @@
 
 Lab réalisé sur **Cisco Packet Tracer** : conception et configuration du réseau d'un cabinet de notaire, avec segmentation par VLAN, routage inter-VLAN, DHCP centralisé, téléphonie IP, Wi-Fi invité isolé et accès d'administration sécurisé.
 
-![Topologie du lab](images/topologie.png)
+![Topologie du lab](images/Topologie.png)
 
 ## Objectif
 
