@@ -2,7 +2,7 @@
 
 Lab réalisé sur **Cisco Packet Tracer** : conception et configuration du réseau d'un cabinet de notaire, avec segmentation par VLAN, routage inter-VLAN, DHCP centralisé, téléphonie IP, Wi-Fi invité isolé et accès d'administration sécurisé.
 
-!\[Topologie du lab] (images/topologie.png)
+![Topologie du lab](images/topologie.png)
 
 ## Objectif
 
@@ -149,5 +149,5 @@ show ephone registered                (sur EDGE-R1)
 ## Auteur
 
 **\[Tahar HAdjeres]** : en reconversion vers l'IT, orienté technicien réseau.
-[LinkedIn](https://www.linkedin.com/in/tahar-hadjeres-b22a45171) · [GitHub]([https://github.com/THadjeres])
+[LinkedIn](https://www.linkedin.com/in/tahar-hadjeres-b22a45171) · [GitHub](https://github.com/THadjeres)
 
