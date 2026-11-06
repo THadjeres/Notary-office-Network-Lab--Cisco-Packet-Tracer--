@@ -148,6 +148,6 @@ show ephone registered                (sur EDGE-R1)
 
 ## Auteur
 
-**\[Tahar HAdjeres]** : en reconversion vers l'IT, orienté technicien réseau.
+**\[Tahar Hadjeres]** : en reconversion vers l'IT, orienté technicien réseau.
 [LinkedIn](https://www.linkedin.com/in/tahar-hadjeres-b22a45171) · [GitHub](https://github.com/THadjeres)
 
